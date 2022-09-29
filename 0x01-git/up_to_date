@@ -1,1 +1,1 @@
-git push origin update_script:main
+git pull origin main
